@@ -38,4 +38,4 @@ Você pode personalizar a calculadora de acordo com suas necessidades. Altere o 
 
 ## Contribuição
 
-Contribuições são bem-vindas! Se você encontrar algum problema, bug ou tiver alguma sugestão de melhoria, sinta-se à vontade para abrir uma "issue" ou enviar um "pull request" neste repositório.
+Contribuições são bem-vindas! Se você encontrar algum problema, bug ou tiver alguma sugestão de melhoria, sinta-se à vontade para .
