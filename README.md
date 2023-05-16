@@ -1,6 +1,7 @@
 # Calculadora
 
-Este é um projeto de uma calculadora simples desenvolvida com JavaScript, CSS e HTML. A calculadora permite realizar operações matemáticas básicas, como adição, subtração, multiplicação e divisão.
+Este é um projeto de uma calculadora simples desenvolvida com JavaScript, CSS e HTML. 
+A calculadora permite realizar operações matemáticas básicas, como adição, subtração, multiplicação e divisão.
 
 ## Pré-requisitos
 
