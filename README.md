@@ -34,4 +34,4 @@ Suponha que você queira realizar a seguinte operação: 5 + 3 * 2.
 
 ## Personalização
 
-Você pode personalizar a calculadora de acordo com suas necessidades. Altere o estilo da calculadora modificando as classes CSS definidas no arquivo `style.css`. Além disso, você pode adicionar mais funcionalidades à calculadora, como operações avançadas, por exemplo.
+Você pode personalizar a calculadora de acordo com suas necessidades. Altere o estilo da calculadora modificando as classes CSS definidas no arquivo `style.css`. Além disso, você pode adicionar mais funcionalidades à calculadora, como operações avançadas.
